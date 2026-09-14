@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
+  "versionCode": 1,
   "versionName": "1.0.4",
-  "downloadUrl": "http://down.local.qingshu.work/down/qsc-1.0.4.apk",
+  "downloadUrl": "https://qsc.cdn.qcsm.ltd/down/qsc-1.0.4.apk",
   "changelog": "1. 修复已知问题\n2. 优化升级流程稳定性\n3. github102",
   "isForceUpdate": false,
   "fileMd5": "d41d8cd98f00b204e9800998ecf8427e",
