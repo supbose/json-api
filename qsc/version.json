@@ -1,10 +1,10 @@
 {
-  "versionCode": 10005,
-  "versionName": "1.0.4",
+  "versionCode": 10006,
+  "versionName": "1.0.6",
   "downloadUrl": "https://qsc.cdn.qcsm.ltd/down/qsc-1.0.4.apk",
-  "changelog": "1. 修复已知问题\n2. 优化升级流程稳定性\n3. github102",
+  "changelog": "1. 修复已知问题\n2. 优化升级流程稳定性 github",
   "isForceUpdate": false,
-  "fileMd5": "d41d8cd98f00b204e9800998ecf8427e",
-  "fileSize": 15728640,
-  "autoUpdate": true
+  "fileSha256": "3827c0b8c42ec2b98156882d2053a0ea17c2c1b5ccb99ea2fc0c1cd33b05d6df",
+  "fileSize": 39230288,
+  "autoUpdate": false
 }
