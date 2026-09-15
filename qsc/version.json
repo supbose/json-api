@@ -4,7 +4,7 @@
   "downloadUrl": "https://qsc.cdn.qcsm.ltd/down/app-debug.apk",
   "changelog": "1. 修复已知问题\n2. 优化升级流程稳定性 github",
   "isForceUpdate": false,
-  "fileSha256": "6f3aa4c1ecaec6058907b5acc60140f1ad505a82e3b1118606f79b835ea47e1e",
-  "fileSize": 59630779,
+  "fileSha256": "4073bea45419b6a086298b96a3aab7bb0ef036d891f1409dfa83536e16ccb7df",
+  "fileSize": 59643155,
   "autoUpdate": false
 }
